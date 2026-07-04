@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-sigma-pink.vercel.app/api?username=ayesha-khan-786&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-khan-786&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ayesha-khan-786&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayesha-khan-786&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
