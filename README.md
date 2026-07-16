@@ -62,6 +62,4 @@
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by — let's connect and build something great! 🚀</i>
-</p>
+
